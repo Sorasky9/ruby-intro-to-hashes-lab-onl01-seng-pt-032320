@@ -4,8 +4,8 @@ new_hash{}
 end
 
 def actor
-binding.pry 
-actor {:name => "Dwayne The Rock Johnson"}
+binding.pry
+actor = {:name => "Dwayne The Rock Johnson"}
 end
 
 def monopoly
