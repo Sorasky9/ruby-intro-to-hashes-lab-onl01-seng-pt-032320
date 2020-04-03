@@ -3,7 +3,7 @@ new_hash{}
 end
 
 def actor
-  actor {:name => "Daniel Craig",}
+  actor{:name => "Daniel Craig",}
 
 end
 
