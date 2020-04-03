@@ -3,8 +3,7 @@ new_hash{}
 end
 
 def actor
-  actor{:name => "Daniel Craig"},
-
+:name => "Dwayne The Rock Johnson"
 end
 
 def monopoly
