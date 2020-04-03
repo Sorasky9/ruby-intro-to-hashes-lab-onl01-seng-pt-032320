@@ -4,7 +4,7 @@ new_hash{}
 end
 
 def actor
-binding.pry
+#binding.pry
 actor = {:name => "Dwayne The Rock Johnson"}
 end
 
